@@ -2,7 +2,7 @@
 Hi, I’m Anant Joshi. 
 I'm Eager to learn, collaborate, and connect with people!
 
-&#x2709; Mail- anant.joshi2704@gmail.com
+<p>&#x2709; Mail- anant.joshi2704@gmail.com</p>
 &#9990; Contact- +91 8956144030
 
 
