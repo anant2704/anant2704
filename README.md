@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated B.Tech IT student with a strong foundation in AI, ML, and data analysis. Experienced in building innovative solutions and leveraging technology to drive insights and efficiency. Eager to apply problem-solving skills to a challenging role in finance and technology.
+Hi, I’m Anant Joshi, a driven B.Tech - Information Technology student with a strong focus on AI, ML, and Software development. I’m passionate about developing innovative solutions that merge technology and creativity to solve real-world challenges. Currently, I’m exploring the dynamic intersection of new emerging technologies, aiming to create impactful, data-driven applications.
 
 
 ## 🌐 Socials:
