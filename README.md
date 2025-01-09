@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi, I’m Anant Joshi, a driven B.Tech - Information Technology student with a strong focus on AI, ML, and Software development. I’m passionate about developing innovative solutions that merge technology and creativity to solve real-world challenges. Currently, I’m exploring the dynamic intersection of new emerging technologies, aiming to create impactful, data-driven applications.
+# 💫 Welcome to my GitHub!
+Hi, I’m Anant Joshi. 
+I'm Eager to learn, collaborate, and connect with people!
+
+&#x2709; Mail- anant.joshi2704@gmail.com
+&#9990; Contact- +91 8956144030
 
 
 ## 🌐 Socials:
